@@ -2,7 +2,6 @@ flask
 flask-cors
 python-dotenv
 supabase
-tensorflow-cpu==2.12.0
 librosa
 numpy
 reportlab
