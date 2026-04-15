@@ -1,0 +1,6 @@
+Pro URL : https://nscrnlaukukiygnxlqyb.supabase.co
+
+anon public key : sb_publishable_uoqmIo52LVNCXXsl5A008A_j7FZacHZ
+
+SUPABASE_URL = "https://nscrnlaukukiygnxlqyb.supabase.co"
+SUPABASE_KEY = "sb_publishable_uoqmIo52LVNCXXsl5A008A_j7FZacHZ"

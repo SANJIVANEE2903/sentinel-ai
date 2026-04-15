@@ -1,0 +1,73 @@
+.saas-layout {
+  display: flex;
+  height: 100vh;
+  font-family: Arial;
+}
+
+/* SIDEBAR */
+.sidebar {
+  width: 260px;
+  background: #0f172a;
+  color: white;
+  padding: 15px;
+}
+
+.menu p {
+  margin: 10px 0;
+  opacity: 0.8;
+}
+
+.history {
+  margin-top: 20px;
+  overflow-y: auto;
+  max-height: 70vh;
+}
+
+.history-item {
+  padding: 8px;
+  margin-bottom: 8px;
+  background: #1e293b;
+  border-radius: 8px;
+}
+
+.fake {
+  color: red;
+}
+
+.real {
+  color: lightgreen;
+}
+
+/* MAIN */
+.main {
+  flex: 1;
+  padding: 20px;
+  background: #f8fafc;
+}
+
+.cards {
+  display: flex;
+  gap: 15px;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  width: 150px;
+}
+
+.chart-box {
+  margin-top: 20px;
+  background: white;
+  padding: 15px;
+  border-radius: 12px;
+}
+
+/* RIGHT PANEL */
+.right {
+  width: 260px;
+  background: #eef2ff;
+  padding: 15px;
+}
